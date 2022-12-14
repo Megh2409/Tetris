@@ -1,6 +1,5 @@
 # Tetris_Game
 Tetris game using HTML5 canvas and JavaScript.<hr/>
-<h4>Play it <a href="https://nehasoni05.github.io/Tetris_Game/tetris.html">here</a></h4>
 <h3>Technologies Used</h3>
 <ul>
   <li>HTML5</li>
