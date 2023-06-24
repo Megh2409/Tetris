@@ -5,5 +5,6 @@ Tetris game using HTML5, CSS and JavaScript.<hr/>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
+  <a href="https://megh2409.github.io/Tetris/">Playable Link</a>
 </ul>
 
