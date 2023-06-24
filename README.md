@@ -1,5 +1,5 @@
 # Tetris_Game
-Tetris game using HTML5 canvas and JavaScript.<hr/>
+Tetris game using HTML5, CSS and JavaScript.<hr/>
 <h3>Technologies Used</h3>
 <ul>
   <li>HTML</li>
